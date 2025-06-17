@@ -7,7 +7,7 @@ email-validator
 python-dotenv
 beautifulsoup4
 pydantic-settings
-markitdown
+markitdown[all]
 pytest
 httpx
 pytest-asyncio
